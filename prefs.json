@@ -1,0 +1,4 @@
+{
+  "dbUrl": "jdbc:h2:C:\\GoIt\\java-dev5-4-10\\test",
+  "initDbSql": "./initDB.sql"
+}
